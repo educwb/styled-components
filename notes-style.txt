@@ -3,5 +3,6 @@ npx create-react-app style-components
 "[javascriptreact]": {"editor.autoClosingBrackets": "always"},
 "[javascript]": {"editor.autoClosingBrackets": "always"}
 
-yarn add style-components
+yarn add styled-components
 
+https://styled-components.com/
