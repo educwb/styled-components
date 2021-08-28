@@ -1,0 +1,7 @@
+npx create-react-app style-components
+
+"[javascriptreact]": {"editor.autoClosingBrackets": "always"},
+"[javascript]": {"editor.autoClosingBrackets": "always"}
+
+yarn add style-components
+
